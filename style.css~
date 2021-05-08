@@ -7,10 +7,10 @@ body {
     padding: 0;
 }
 footer {
-    width: 100vw;
-    height: 15vh;
-    background-color: red;
-    color: white;
+    /* width: 100vw;
+    height: 10vh; */
+    background-color: navy;
+    color: oldlace;
     text-align: center;
 }
 #cabecera {
